@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jtlshopplugin version="106">
+    <Name>Landswitcher</Name>
+    <PluginID>Landswitcher</PluginID>
+    <Author>Andrey Bogdanov</Author>
+    <URL>https://www.jtl-software.de</URL>
+    <Version>1.0.0</Version>
+    <CreateDate>2024-01-06</CreateDate>
+    <XMLVersion>100</XMLVersion>
+    <Icon>preview.png</Icon>
+    <ShopVersion>5.0.0</ShopVersion>
+    <Description>Landswitcher plugin for JTL-Shop.</Description>
+    <Install>
+        <Adminmenu>
+            <Customlink sort="2">
+                <Name>Settings</Name>
+            </Customlink>
+        </Adminmenu>
+    </Install>
+</jtlshopplugin>
